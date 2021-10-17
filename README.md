@@ -52,20 +52,6 @@ Please download the <a href = "https://drive.google.com/file/d/1ZuUiUB6CK66lMxYH
       
       
    
-<h2 align= "left"><b>Website in a Print view</b></h2>
-
-<p align="left">  
-
-<img width=40% src="Screenshots/01.png"> &ensp;
-<img width=40% src="Screenshots/02.png"> &ensp;
-<img width=40% src="Screenshots/03.png"> &ensp;
-<img width=40% src="Screenshots/04.png"> &ensp;
-<img width=40% src="Screenshots/05.png"> &ensp;
-<img width=40% src="Screenshots/06.png"> &ensp;
-<img width=40% src="Screenshots/07.png"> &ensp;
-<img width=40% src="Screenshots/08.png"> &ensp;
-<img width=40% src="Screenshots/09.png"> &ensp;
-<img width=40% src="Screenshots/10.png"> &ensp;
 
 
   
